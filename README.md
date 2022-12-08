@@ -15,12 +15,12 @@ Video 2: https://drive.google.com/file/d/1YrdVsfMoM6dbHeB5bG8GJoGrAyoMgrLg/view?
 
 **Step 3:** Run *cd CS655-mini-project*, and run *chmod +x ./set_up_web_interface.sh*
 
-**Step 4:** Execute *./set_up_web_interface.sh*
+**Step 4:** Execute *./set_up_web_interface.sh* (Rarely you have to press Enter or Y)
 
 **Step 5:** SSH into "Server" and run *git clone https://github.com/FrankCuiCN/CS655-mini-project*
 
 **Step 6:** Run *cd CS655-mini-project*, and run *chmod +x ./set_up_backend.sh*
 
-**Step 7:** Execute *./set_up_backend.sh*
+**Step 7:** Execute *./set_up_backend.sh* (Rarely you have to press Enter or Y)
 
 **Step 8:** On note-1, run python3 ./server_base.py
