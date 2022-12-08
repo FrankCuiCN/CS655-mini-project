@@ -9,7 +9,7 @@ Video 2: https://drive.google.com/file/d/1YrdVsfMoM6dbHeB5bG8GJoGrAyoMgrLg/view?
 
 ## How to run
 
-**Step 1:** download mini-project-C-M_request_rspec.xml, and create a GENI resource using this RSpec file.
+**Step 1:** download mini-project-C-M_request_rspec.xml. Create a GENI resource using this RSpec file after selecting an InstaGENI site.
 
 **Step 2:** SSH into "Web-interface" and run *git clone https://github.com/FrankCuiCN/CS655-mini-project*.
 
