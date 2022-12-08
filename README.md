@@ -24,3 +24,5 @@ Video 2: https://drive.google.com/file/d/1YrdVsfMoM6dbHeB5bG8GJoGrAyoMgrLg/view?
 **Step 7:** Execute ```./set_up_backend.sh``` (Rarely you have to press Enter or Y)
 
 **Step 8:** On ```Server```, ```run python3 ./server_base.py```
+
+**Step 9:** Use our application by visiting ```IP/web_interface.html``` or ```IP/udp_web_interface.html```, where ```IP``` is the ip address of your ```Web-interface``` node.
