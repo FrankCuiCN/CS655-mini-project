@@ -1,4 +1,5 @@
 sudo apt update
+sudo apt-get -y install apache2
 sudo apt install libjpeg-dev zlib1g-dev
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt update
