@@ -1098,6 +1098,6 @@ def main(s):
 
 
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-    s.bind(("128.112.170.34", PORT))
+    s.bind(("0.0.0.0", PORT))
     while True:
         main(s)
