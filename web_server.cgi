@@ -35,7 +35,7 @@ if fileitem.filename:
 	with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
                 truth=True
                 #Connect to server
-                s.connect(('128.112.170.34', 1025))
+                s.connect(('10.10.1.1', 1025))
                 #Set timeout in case of loss or corruption
                 s.settimeout(5)
                 message = path_to_string(path)+'\n'
