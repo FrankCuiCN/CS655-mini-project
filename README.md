@@ -11,13 +11,13 @@ Video 2: https://drive.google.com/file/d/1YrdVsfMoM6dbHeB5bG8GJoGrAyoMgrLg/view?
 
 **Step 1:** download mini-project-C-M_request_rspec.xml, and create a GENI resource using this RSpec file.
 
-**Step 2:** SSH into node-0 and run *git clone https://github.com/FrankCuiCN/CS655-mini-project*.
+**Step 2:** SSH into "Web-interface" and run *git clone https://github.com/FrankCuiCN/CS655-mini-project*.
 
 **Step 3:** Run *cd CS655-mini-project*, and run *chmod +x ./set_up_web_interface.sh*.
 
 **Step 4:** Execute *./set_up_web_interface.sh*.
 
-**Step 5:** SSH into node-1 and run *git clone https://github.com/FrankCuiCN/CS655-mini-project*.
+**Step 5:** SSH into "Server" and run *git clone https://github.com/FrankCuiCN/CS655-mini-project*.
 
 **Step 6:** Run *cd CS655-mini-project*, and run *chmod +x ./set_up_backend.sh*.
 
